@@ -17,3 +17,4 @@ cve_carrera varchar(15) primary key,
 nombre varchar(50) not null unique
 )
 
+--Hola Ray como estas?
